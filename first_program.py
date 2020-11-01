@@ -1,2 +1,2 @@
-print "First program running"
-print "twice, third timee"
+print("First program running")
+print("twice, third timee")
