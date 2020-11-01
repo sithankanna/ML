@@ -1,7 +1,12 @@
 [tool.poetry]
 name = "ml"
 version = "0.1.0"
-description = ""
+description = "Made using the Python hyper-modern tutorial"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/sithankanna/ML"
+repository = "https://github.com/sithankanna/ML"
+keywords = ["hypermodern"]
 authors = ["Sithan Kanna <sithankanna@gmail.com>"]
 
 [tool.poetry.dependencies]
