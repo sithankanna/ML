@@ -25,16 +25,16 @@ Diagram created by [Simone Robutti](https://chobeat.github.io/pywtf-slides/#15)
 
 
 ### Old method (Try to avoid): `setuptools`
-* `distutils`: Depricated predecassors for setuptools (Really Bad 5/5)
-* `setuptools`: Expanded version of Setup Tools 
+* `distutils`: Depricated predecessor of setuptools (Really Bad 5/5)
+* `setuptools`: Expanded version of `distutils` 
 * Needs `setup.py` which automatically packagaes all the files in the directory with "__init__.py" 
 * `MANIFEST.in` is used to list non-python files that you want to be included in the package (e.g. License file + README)
-* `setup.cfg` is a config file is used - to move a lot of things from setup.py 
+* `setup.cfg` is a config file is used to move a lot of things from setup.py 
 * `./setup.py sdist` = Creates source distribution
 * `./setup.py bdist_wheel` = Creates the universal wheel 
 * `./setup.py develop` or  `pip install -e` creates a simlink in your installed directory without acctually installing it. This makes the development version of your package to other projects in your computer without explicitly installing it.
 * Then you need you need to upload it to `pypi` via a package called `twine`. 
-* Packages listed in in `setup.py` is for the users, packages in `requirement.txt` is for developers 
+* Packages listed in `setup.py` is for the users, packages in `requirement.txt` is for developers 
 
 ## Definitions
 * **Module**: Any Python Code (any .py file or files)
