@@ -23,7 +23,7 @@
 Diagram created by [Simone Robutti](https://chobeat.github.io/pywtf-slides/#15)
 
 
-### Old method: setuptools: 
+### Old method (Try to avoid): `setuptools`
 * `distutils`: Depricated predecassors for setuptools (Really Bad 5/5)
 * `setuptools`: Expanded version of Setup Tools 
 * Needs `setup.py` which automatically packagaes all the files in the directory with "__init__.py" 
