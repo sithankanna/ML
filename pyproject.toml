@@ -16,6 +16,7 @@ hello = "ml.console:main"
 python = "^3.9"
 click = "^7.1.2"
 pandas = "^1.1.4"
+requests = "^2.24.0"
 
 [tool.poetry.dev-dependencies]
 
