@@ -19,7 +19,7 @@
     * Pure Python (only Python code but only has either Python 2 or Python 3)
     * Platform Wheels (only has Windows and MacOS)
 
-[Image](assets/pyWTF_venv_diagram.png)
+![](assets/pyWTF_venv_diagram.png)
 Diagram created by [Simone Robutti](https://chobeat.github.io/pywtf-slides/#15)
 
 
