@@ -20,7 +20,7 @@
     * Platform Wheels (only has Windows and MacOS)
 
 ![](assets/pyWTF_venv_diagram.png)
-Diagram created by [Simone Robutti](https://chobeat.github.io/pywtf-slides/#15)
+Diagram created by [Simone Robutti](https://chobeat.github.io/pywtf-slides/#15 =250x)
 
 
 ### Old method (Try to avoid): `setuptools`
