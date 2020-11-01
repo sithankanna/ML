@@ -59,10 +59,10 @@ Diagram created by [Simone Robutti](https://chobeat.github.io/pywtf-slides/#15)
 * `poetry` tries to solves packaging, distribution and env management with the same framework. Still not super mature. (Possibly best option)
 
 # References
-[venv, pyenv, pypi, pip, pipenv, pyWTF?](https://www.youtube.com/watch?v=-C8uVImkTQg)
-[Lesson 8 - Python Applications Packaging with Setuptools](https://www.youtube.com/watch?v=wCGsLqHOT2I)
-[Python Packaging from Init to Deploy](https://www.youtube.com/watch?v=4fzAMdLKC5k)
-[Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+* [venv, pyenv, pypi, pip, pipenv, pyWTF?](https://www.youtube.com/watch?v=-C8uVImkTQg)
+* [Lesson 8 - Python Applications Packaging with Setuptools](https://www.youtube.com/watch?v=wCGsLqHOT2I)
+* [Python Packaging from Init to Deploy](https://www.youtube.com/watch?v=4fzAMdLKC5k)
+* [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
 
 # Appendix: Other things
 * `PEP` stands for Python Enhancement Proposal 
