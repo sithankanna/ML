@@ -10,7 +10,7 @@ keywords = ["hypermodern"]
 authors = ["Sithan Kanna <sithankanna@gmail.com>"]
 
 [tool.poetry.scripts]
-hello = " ml.console:main"
+hello = "ml.console:main"
 
 [tool.poetry.dependencies]
 python = "^3.9"
