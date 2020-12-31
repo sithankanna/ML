@@ -1,7 +1,8 @@
 def main():
     print("First program running")
     print("twice, third time")
-    pass 
+    pass
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
